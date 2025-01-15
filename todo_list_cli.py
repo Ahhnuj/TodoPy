@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 from tabulate import tabulate  # type: ignore
 
-# Initialize the to-do list
+
 TODO_LIST = []
 
 def save_to_file():
