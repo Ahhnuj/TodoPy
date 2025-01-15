@@ -1,0 +1,16 @@
+[
+    {
+        "index": 1,
+        "name": "Go to the gym",
+        "status": "❌",
+        "created_at": "2025-01-15 12:09:10",
+        "completed_at": null
+    },
+    {
+        "index": 2,
+        "name": "Learn rust",
+        "status": "✅",
+        "created_at": "2025-01-15 12:11:18",
+        "completed_at": "2025-01-15 12:11:39"
+    }
+]
